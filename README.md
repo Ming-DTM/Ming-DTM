@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm 明 (Ming-DTM)
+> 一名热爱技术、探索编程的学习者 🚀
 
-<!--
-**Ming-DTM/Ming-DTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ 技术栈 & 工具
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub 数据看板
+<!-- 动态统计卡片，自动更新你的提交、星标等数据 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ming-DTM&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ming-DTM&layout=compact&theme=radical)
+
+---
+
+### 🌱 正在学习
+- Python 自动化脚本开发
+- Git & GitHub 高效使用
+- 后端开发基础
+
+---
+
+### 📫 联系我
+- 🏙️ 所在地：深圳
+- 💼 职业：杰米
+
+---
+
+### 🎯 访客统计
+<!-- 自动统计访问你主页的人数 -->
+![Visitor Count](https://profile-counter.glitch.me/Ming-DTM/count.svg)
