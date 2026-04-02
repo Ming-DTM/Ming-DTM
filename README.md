@@ -40,3 +40,8 @@
 
 ### 🎯 访客统计
 ![Visitor Count](https://profile-counter.glitch.me/Ming-DTM/count.svg)
+
+---
+
+### 🐍 GitHub Contribution Snake
+![Snake animation](https://github.com/Ming-DTM/Ming-DTM/blob/output/github-contribution-grid-snake.svg)
