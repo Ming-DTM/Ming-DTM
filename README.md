@@ -4,10 +4,12 @@
 ---
 
 ### 🛠️ 技术栈和工具
-- 🐍 **Python**：自动化脚本、后端开发
-- 🔧 **Git & GitHub**：版本控制、代码托管
-- 💻 **VS Code**：主力开发编辑器
-- 🎧 **汽车音频技术**：车载功放、音频芯片开发
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
