@@ -4,31 +4,32 @@
 ---
 
 ### 🛠️ 技术栈和工具
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 🐍 **Python**：自动化脚本、后端开发
+- 🔧 **Git & GitHub**：版本控制、代码托管
+- 💻 **VS Code**：主力开发编辑器
+- 🎧 **汽车音频技术**：车载功放、音频芯片开发
 
 ---
 
-### 📊 GitHub 数据看板
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ming-DTM&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ming-DTM&layout=compact&theme=onedark)
+### 📌 我的项目
+- 🔄 [lan_backup](https://github.com/Ming-DTM/lan_backup)：局域网备份工具（Python开发）
 
 ---
 
 ### 🌱 正在学习
 - Python 自动化脚本开发
 - Git 和 GitHub 的高效使用
-- 后端开发基础
+- 车载音频系统开发
+- C# 后端开发基础
 
 ---
 
 ### 📫 联系我
 - 🏙️ 所在地：深圳
 - 💼 职业：杰米
+- 🐙 GitHub：[@Ming-DTM](https://github.com/Ming-DTM)
 
 ---
 
-### 🎯 访客统计
-![Visitor Count](https://profile-counter.glitch.me/Ming-DTM/count.svg)
+### ✨ 关于我
+> 持续学习，持续输出，做一个会写代码的音频工程师 🚀
