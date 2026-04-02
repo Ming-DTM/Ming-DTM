@@ -34,4 +34,9 @@
 ---
 
 ### ✨ 关于我
-> 持续学习，持续输出，做一个会写代码的音频工程师 🚀
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ECC71&width=435&lines=Python+Developer;Car+Audio+Engineer;Open+Source+Learner)](https://git.io/typing-svg)
+
+---
+
+### 🎯 访客统计
+![Visitor Count](https://profile-counter.glitch.me/Ming-DTM/count.svg)
