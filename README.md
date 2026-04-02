@@ -13,8 +13,8 @@
 
 ### 📊 GitHub 数据看板
 <!-- 动态统计卡片，自动更新你的提交、星标等数据 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ming-DTM&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ming-DTM&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ming-DTM&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ming-DTM&layout=compact&theme=onedark)
 
 ---
 
